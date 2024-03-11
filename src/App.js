@@ -67,7 +67,8 @@ function App() {
           <Button type="primary" size='large' onClick={check}>Проверить дубликаты сделок</Button>
         </Spin>
         {loaded &&
-          <div>
+          <div style={{marginTop: 16}}>
+            <div>Всего - {Object.keys(duplicates).length}</div>
             <Space direction="vertical" size={16}>
               {renderDuplicates()}
             </Space>

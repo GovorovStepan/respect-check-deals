@@ -2,6 +2,7 @@ import axios from "axios";
 
 
 
+const BATCH = 'https://myrespect.bitrix24.ru/rest/1/r0vc702sjvc3a25t/batch.json';
 
 const batchCreater = (params) => {
 	// const filter = params.filter 
