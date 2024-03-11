@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/respect-check-deals/static/css/main.2922ad1b.css",
-    "main.js": "/respect-check-deals/static/js/main.69271986.js",
+    "main.js": "/respect-check-deals/static/js/main.1e980fc6.js",
     "static/js/787.c5dcf161.chunk.js": "/respect-check-deals/static/js/787.c5dcf161.chunk.js",
     "index.html": "/respect-check-deals/index.html",
     "main.2922ad1b.css.map": "/respect-check-deals/static/css/main.2922ad1b.css.map",
-    "main.69271986.js.map": "/respect-check-deals/static/js/main.69271986.js.map",
+    "main.1e980fc6.js.map": "/respect-check-deals/static/js/main.1e980fc6.js.map",
     "787.c5dcf161.chunk.js.map": "/respect-check-deals/static/js/787.c5dcf161.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2922ad1b.css",
-    "static/js/main.69271986.js"
+    "static/js/main.1e980fc6.js"
   ]
 }
