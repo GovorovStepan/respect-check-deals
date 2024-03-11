@@ -68,7 +68,7 @@ function App() {
         </Spin>
         {loaded &&
           <div style={{marginTop: 16}}>
-            <div>Всего - {Object.keys(duplicates).length}</div>
+            <div style={{  color: 'black'}}>Всего - {Object.keys(duplicates).length}</div>
             <Space direction="vertical" size={16}>
               {renderDuplicates()}
             </Space>
